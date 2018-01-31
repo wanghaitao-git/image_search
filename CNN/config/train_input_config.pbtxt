@@ -1,0 +1,4 @@
+  tf_record_input_reader {
+    input_path: "/home/bqh/Code/image_search/train.record"
+  }
+  label_map_path: "/home/bqh/Code/image_search/label_map.pbtxt"
